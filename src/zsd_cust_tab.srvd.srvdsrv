@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service ZSD_CUST_TAB {
+  expose ZD_CUST_TAB;
+}

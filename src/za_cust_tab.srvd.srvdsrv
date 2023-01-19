@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZA_CUST_TAB'
+@OData.schema.name: 'ZCUST_DDL2_CDS'
+define service ZA_CUST_TAB {
+ expose ZZCUST_DDL2; 
+ } 
